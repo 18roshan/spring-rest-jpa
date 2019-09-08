@@ -1,7 +1,7 @@
 package hello;
 
 public class Greeting {
-	//Apple
+	//greetings
 	 private final long id;
 	    private final String content;
 
