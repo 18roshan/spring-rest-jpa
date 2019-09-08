@@ -1,6 +1,7 @@
 package hello;
 
 public class Greeting {
+	//greeting
 	 private final long id;
 	    private final String content;
 
