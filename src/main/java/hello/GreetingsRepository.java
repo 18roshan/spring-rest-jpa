@@ -1,5 +1,7 @@
 package hello;
 
-public interface GreetingsRepository extends JpaRepository<Greetings,Long> {
+import org.springframework.data.repository.CrudRepository;
+
+public interface GreetingsRepository extends CrudRepository<Greetings,Long> {
 
 }
